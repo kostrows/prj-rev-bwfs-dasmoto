@@ -1,0 +1,41 @@
+html {
+  font-family: Helvetica;
+}
+
+.header {
+  font-size: 100px;
+  background-image: url("../pattern.jpeg");
+}
+
+.heading {
+  font-size: 32px;
+  color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.khaki {
+  color: khaki;
+}
+
+.green {
+  background-color: mediumspringgreen;
+}
+
+.coral {
+  background-color: lightcoral;
+}
+
+.skyblue {
+  background-color: skyblue;
+}
+
+.blue {
+  color: blue;
+}
