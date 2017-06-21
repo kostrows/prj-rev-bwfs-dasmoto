@@ -1,27 +1,22 @@
-html {
+body {
   font-family: Helvetica;
 }
 
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    font-weight: bold;
+}
+
 .header {
-  font-size: 100px;
   background-image: url("../pattern.jpeg");
 }
 
 .heading {
   font-size: 32px;
   color: white;
-}
-
-.center {
-  text-align: center;
-}
-
-.bold {
   font-weight: bold;
-}
-
-.khaki {
-  color: khaki;
 }
 
 .green {
@@ -36,6 +31,7 @@ html {
   background-color: skyblue;
 }
 
-.blue {
+.highlight {
   color: blue;
+  font-weight: bold;
 }
